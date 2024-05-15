@@ -1,0 +1,2 @@
+POST localhost:8080/v1/admins
+Authorization: Basic aa aa
