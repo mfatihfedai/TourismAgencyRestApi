@@ -11,6 +11,7 @@ This project encompasses an API developed to manage the operations of a tourism 
 - RESTAPI
 - PostgreSQL
 - Spring Web
+- Spring Security
 - Authentication
 
 
