@@ -7,12 +7,12 @@ This project encompasses an API developed to manage the operations of a tourism 
 
 
 - Spring Boot
-- Spring Data JPA
-- RESTAPI
-- PostgreSQL
 - Spring Web
 - Spring Security
+- Spring Data JPA
 - Authentication
+- RESTAPI
+- PostgreSQL
 
 
 
